@@ -18,7 +18,9 @@ The main purpose of mouse bites is to simplify the manufacturing process by allo
 * Click on the folder icon <img  style="float: right;" src="https://github.com/AchimPieters/mouse-bite.pretty/blob/main/images/folder.svg" width="30"> and select the `mouse-bite.pretty` folder and then `Open`
 * In the `PCB editor` click the footprint icon <img  style="float: right;" src="https://github.com/AchimPieters/mouse-bite.pretty/blob/main/images/Footprint.svg" width="15"> and in the search field type `mouse`
 * Select your mouse bite and add it to your design.
-
+* Place the footprint on your pcb edge
+* Connect the `Edge.Cuts` layer to the footprint
+* draw the half circles on the `Edge.Cuts` layer
 
 # MIT LICENCE
 
