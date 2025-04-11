@@ -24,7 +24,7 @@ The main purpose of mouse bites is to simplify the manufacturing process by allo
 
 # MIT LICENCE
 
-<img  style="float: right;" src="https://github.com/AchimPieters/mouse-bite.pretty/blob/main/images/MIT%7C%20SOFTWARE%20WHITE.svg" width="200">
+<img  style="float: right;" src="https://github.com/AchimPieters/mouse-bite.pretty/blob/main/images/MIT_SOFTWARE%20WHITE.svg" width="200">
 
 
 <sup>Copyright © 2024 Studiopieters | Achim Pieters</sup>
